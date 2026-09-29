@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=false&text=Fourie+Jooste&textBg=false&fontSize=70&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineering+Student+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=64" style="width:100%;" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=1000&vCenter=true&width=435&lines=About+me" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=9000&pause=1000&vCenter=true&width=435&lines=About+me" alt="Typing SVG" />
 
 ---
 
@@ -14,7 +14,7 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=1000&vCenter=true&width=435&lines=Projects+I+have+worked+on" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=9000&pause=1000&vCenter=true&width=435&lines=Projects+I+have+worked+on" alt="Typing SVG" />
 
 ---
 - **Employee Management System.** C#, WinForms, MySQL. Workforce management system for a two-site restaurant group, replacing paper-based tracking of hours, leave, contracts and disciplinary records for 35 staff. Private client codebase, not linkable.
@@ -24,7 +24,7 @@ Seeking a 12-month in-service placement in a structured development team, availa
 <br/><br/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=1000&vCenter=true&width=435&lines=My+tech+stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=9000&pause=1000&vCenter=true&width=435&lines=My+tech+stack" alt="Typing SVG" />
 
 ---
 - **Proficient:** C#, JavaScript, Python, Java
