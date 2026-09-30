@@ -10,7 +10,7 @@ Seven years running a restaurant, now building the software that industry needs.
 
 Third-year software engineering student, currently building a workforce management system for the hospitality sector, the industry I spent seven years running.
 
-Seeking a 12-month in-service placement in a structured development team, available from late November 2026.
+Seeking a 12-month in-service placement in a structured development team, available from December 2026.
 
 <br/><br/>
 
