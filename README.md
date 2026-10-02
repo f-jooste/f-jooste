@@ -80,6 +80,7 @@ Seeking a 12-month in-service placement in a structured development team, availa
   <a href="https://linkedin.com/in/fourie-jooste-07126543b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=9000&vCenter=true&width=435&lines=Projects+I+have+worked+on" alt="Typing SVG" />
 
