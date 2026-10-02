@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=false&text=Fourie+Jooste&textBg=false&fontSize=70&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineering+Student+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=64" style="width:100%;" />
 </div>
 
+<div align="center">
+  <img src="assets/terminal-session.svg" width="600" height="90" alt="Terminal typing animation" />
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=800&size=25&height=60&width=260&color=2DD4BF&duration=3600&pause=9000&vCenter=true&lines=About+me" alt="Typing SVG" />
 
 ---
