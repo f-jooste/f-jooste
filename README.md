@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=false&text=Fourie+Jooste&textBg=false&fontSize=70&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineering+Student+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=64" style="width:100%;" />
+  <img src="assets/header-banner.svg" style="width:100%;" />
 </div>
 
 <div align="center">
   <img src="assets/terminal-session.svg" width="600" height="90" alt="Terminal typing animation" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=800&size=25&height=60&width=260&color=2DD4BF&duration=3600&pause=9000&vCenter=true&lines=About+me" alt="Typing SVG" />
+<img src="assets/about-me-title.svg" alt="Typing SVG" />
 
 ---
 Spent **seven years** running a restaurant, now building the software that industry needs.
@@ -86,7 +86,7 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=800&size=25&height=60&width=500&color=2DD4BF&duration=3200&pause=9000&vCenter=true&lines=Projects+I+have+worked+on" alt="Typing SVG" />
+<img src="assets/projects-title.svg" alt="Typing SVG" />
 
 ---
 <details>
@@ -119,7 +119,7 @@ Seeking a 12-month in-service placement in a structured development team, availa
 <br/><br/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=800&size=25&height=60&width=260&color=2DD4BF&duration=3200&pause=9000&vCenter=true&lines=My+tech+stack" alt="Typing SVG" />
+<img src="assets/tech-stack-title.svg" alt="Typing SVG" />
 
 ---
 
