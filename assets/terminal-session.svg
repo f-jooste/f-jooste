@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 600 90" width="600" height="90" style="background-color:#00000000;">
+  <defs>
+    <path id="cmdpath0">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.05625;0.2125;0.23125;1.0" values="M12,36 H12;M12,36 H588;M12,36 H588;M12,36 H12;M12,36 H12" calcMode="linear" />
+    </path>
+    <path id="anspath0">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.06875;0.125;0.2125;0.23125;1.0" values="M12,62 H12;M12,62 H12;M12,62 H588;M12,62 H588;M12,62 H12;M12,62 H12" calcMode="linear" />
+    </path>
+    <path id="cmdpath1">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.25;0.30625;0.4625;0.48125;1.0" values="M12,36 H12;M12,36 H12;M12,36 H588;M12,36 H588;M12,36 H12;M12,36 H12" calcMode="linear" />
+    </path>
+    <path id="anspath1">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.25;0.31875;0.375;0.4625;0.48125;1.0" values="M12,62 H12;M12,62 H12;M12,62 H12;M12,62 H588;M12,62 H588;M12,62 H12;M12,62 H12" calcMode="linear" />
+    </path>
+    <path id="cmdpath2">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.5;0.55625;0.7125;0.73125;1.0" values="M12,36 H12;M12,36 H12;M12,36 H588;M12,36 H588;M12,36 H12;M12,36 H12" calcMode="linear" />
+    </path>
+    <path id="anspath2">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.5;0.56875;0.625;0.7125;0.73125;1.0" values="M12,62 H12;M12,62 H12;M12,62 H12;M12,62 H588;M12,62 H588;M12,62 H12;M12,62 H12" calcMode="linear" />
+    </path>
+    <path id="cmdpath3">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.75;0.80625;0.9625;0.98125;1.0" values="M12,36 H12;M12,36 H12;M12,36 H588;M12,36 H588;M12,36 H12;M12,36 H12" calcMode="linear" />
+    </path>
+    <path id="anspath3">
+      <animate attributeName="d" begin="0s" dur="16000ms" repeatCount="indefinite"
+        keyTimes="0.0;0.75;0.81875;0.875;0.9625;0.98125;1.0" values="M12,62 H12;M12,62 H12;M12,62 H12;M12,62 H588;M12,62 H588;M12,62 H12;M12,62 H12" calcMode="linear" />
+    </path>
+  </defs>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#2DD4BF" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#cmdpath0">$ whoami</textPath>
+    </text>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#6FC9BC" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#anspath0">&gt; fourie_jooste</textPath>
+    </text>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#2DD4BF" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#cmdpath1">$ cat experience.log</textPath>
+    </text>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#6FC9BC" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#anspath1">&gt; 7 years managing Wimpy Paarl Mall</textPath>
+    </text>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#2DD4BF" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#cmdpath2">$ ./rebuild.sh --target=developer</textPath>
+    </text>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#6FC9BC" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#anspath2">&gt; compiling ops experience into code...</textPath>
+    </text>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#2DD4BF" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#cmdpath3">$ status --availability</textPath>
+    </text>
+    <text font-family="ui-monospace, 'JetBrains Mono', 'Consolas', monospace" font-size="15"
+        fill="#6FC9BC" dominant-baseline="middle" text-anchor="start" letter-spacing="0.2">
+      <textPath xlink:href="#anspath3">&gt; open for a 12-month placement, Dec 2026</textPath>
+    </text>
+</svg>
