@@ -98,96 +98,108 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 <a id="fourie-tech"></a>
 
-**Proficient**
+<details>
+<summary>Proficient</summary>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /></a>
       <br>C#
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /></a>
       <br>Java
     </td>
   </tr>
 </table>
 
-**Web**
+</details>
+
+<details>
+<summary>Web</summary>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /></a>
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /></a>
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
       <br>Node.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" /></a>
       <br>Express
     </td>
   </tr>
 </table>
 
-**Data**
+</details>
+
+<details>
+<summary>Data</summary>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /></a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></a>
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /></a>
       <br>MongoDB
     </td>
   </tr>
 </table>
 
-**Tools**
+</details>
+
+<details>
+<summary>Tools</summary>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" /></a>
       <br>.NET
     </td>
-    <td align="center" width="96">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" /></a>
-      <br>Unreal
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
       <br>Neovim
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border:none;">
       <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
       <br>Linux
     </td>
+    <td align="center" width="96" style="border:none;">
+      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" /></a>
+      <br>Unreal
+    </td>    
   </tr>
 </table>
+
+</details>
 
 <br/><br/>
