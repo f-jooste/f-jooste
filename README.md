@@ -52,6 +52,13 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 <br/><br/>
 
+#### Let's chat
+<p>
+  <a href="mailto:fourie.j789@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/fourie-jooste-07126543b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=9000&vCenter=true&width=435&lines=Projects+I+have+worked+on" alt="Typing SVG" />
 
 ---
@@ -95,15 +102,3 @@ Seeking a 12-month in-service placement in a structured development team, availa
 - **Practices:** Trunk-based development, pair programming, code review, XP
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=9000&vCenter=true&width=435&lines=Get+in+touch" alt="Typing SVG" />
-
----
-<p>
-  <a href="https://linkedin.com/in/fourie-jooste-07126543b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:fourie-j789@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<br/><br/>
-
-
