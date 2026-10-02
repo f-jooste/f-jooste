@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=false&text=Fourie+Jooste&textBg=false&fontSize=70&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineering+Student+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=64" style="width:100%;" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=9000&vCenter=true&width=435&lines=About+me" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=800&size=25&height=60&width=260&color=2DD4BF&duration=3600&pause=9000&vCenter=true&lines=About+me" alt="Typing SVG" />
 
 ---
-Spent seven years running a restaurant, now building the software that industry needs.
+Spent **seven years** running a restaurant, now building the software that industry needs.
 
-Final year software engineering student, currently building a workforce management system for the hospitality sector, the industry I spent seven years running.
+Final year software engineering student, currently building a **workforce management system** for the hospitality sector, the industry I spent seven years running.
 
 Seeking a 12-month in-service placement in a structured development team, available from December 2026.
 
@@ -74,7 +74,7 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 <br/><br/>
 
-#### Let's chat
+#### Lets chat
 <p>
   <a href="mailto:fourie.j789@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/fourie-jooste-07126543b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -82,14 +82,14 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=9000&vCenter=true&width=435&lines=Projects+I+have+worked+on" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=800&size=25&height=60&width=500&color=2DD4BF&duration=3200&pause=9000&vCenter=true&lines=Projects+I+have+worked+on" alt="Typing SVG" />
 
 ---
 <details>
 <summary>Employee Management System</summary>
 
 - **Stack:** C#, WinForms, MySQL
-- Workforce management system for a two-site restaurant group, replacing paper-based tracking of hours, leave, contracts and disciplinary records for 35 staff
+- Workforce management system for a two-site restaurant group, replacing paper-based tracking of hours, leave, contracts and disciplinary records for **35 staff**
 - Private client codebase, not linkable
 
 </details>
@@ -99,7 +99,7 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 - **Stack:** Unreal Engine 5, Firebase, Blender
 - Interactive VR campus tour built from photogrammetry scans
-- Developed in a trunk-based XP team over 278 commits
+- Developed in a trunk-based XP team over **278 commits**
 
 </details>
 
@@ -108,18 +108,18 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 - **Stack:** Java, Swing, Apache Derby
 - Desktop stock and resource management system
-- Highest contributor on a five-person team, with 20 of 38 commits
+- Highest contributor on a five-person team, with **20 of 38 commits**
 
 </details>
 
 <br/><br/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=900&duration=3200&pause=9000&vCenter=true&width=435&lines=My+tech+stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+mono&weight=800&size=25&height=60&width=260&color=2DD4BF&duration=3200&pause=9000&vCenter=true&lines=My+tech+stack" alt="Typing SVG" />
 
 ---
 
-Most comfortable in C# and .NET, that's where most of my dev hours have gone.
+Most comfortable in **C#** and **.NET**, that's where most of my dev hours have gone.
 
 However, I have spent many hours customising my Linux distros and as a result I am able to learn new languages fairly easily.
 Became the git fixer for every group project, grew fairly confident in my abilities with it as a result
