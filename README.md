@@ -15,11 +15,22 @@ Seeking a 12-month in-service placement in a structured development team, availa
 <details>
 <summary>Education</summary>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr><th style="border: 1px solid; padding: 6px;">Institution</th><th style="border: 1px solid; padding: 6px;">Qualification</th><th style="border: 1px solid; padding: 6px;">Dates</th></tr>
-  <tr><td style="border: 1px solid; padding: 6px;">Hugenote Highschool</td><td style="border: 1px solid; padding: 6px;">NSC</td><td style="border: 1px solid; padding: 6px;">2012 - 2016</td></tr>
-  <tr><td style="border: 1px solid; padding: 6px;">Belgium Campus ITVersity</td><td style="border: 1px solid; padding: 6px;">Bachelor of computing</td><td style="border: 1px solid; padding: 6px;">2024 - present</td></tr>
-</table>
+```json
+{
+  "education": [
+    {
+      "institution": "Hugenote Highschool",
+      "qualification": "NSC",
+      "dates": "2012 - 2016"
+    },
+    {
+      "institution": "Belgium Campus ITVersity",
+      "qualification": "Bachelor of Computing",
+      "dates": "2024 - present"
+    }
+  ]
+}
+```
 
 </details>
 
@@ -27,11 +38,22 @@ Seeking a 12-month in-service placement in a structured development team, availa
 <details>
 <summary>Work experience</summary>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr><th style="border: 1px solid; padding: 6px;">Employer</th><th style="border: 1px solid; padding: 6px;">Role</th><th style="border: 1px solid; padding: 6px;">Dates</th></tr>
-  <tr><td style="border: 1px solid; padding: 6px;">Wimpy Paarl Mall</td><td style="border: 1px solid; padding: 6px;">Part time</td><td style="border: 1px solid; padding: 6px;">2014 - 2016</td></tr>
-  <tr><td style="border: 1px solid; padding: 6px;">Wimpy Paarl Mall</td><td style="border: 1px solid; padding: 6px;">Manager</td><td style="border: 1px solid; padding: 6px;">2016 - 2023</td></tr>
-</table>
+```json
+{
+  "work_experience": [
+    {
+      "employer": "Wimpy Paarl Mall",
+      "role": "Part time",
+      "dates": "2014 - 2016"
+    },
+    {
+      "employer": "Wimpy Paarl Mall",
+      "role": "Manager",
+      "dates": "2016 - 2023"
+    }
+  ]
+}
+```
 
 </details>
 
@@ -96,27 +118,29 @@ Seeking a 12-month in-service placement in a structured development team, availa
 
 ---
 
-<a id="fourie-tech"></a>
+Most comfortable in C# and .NET, that's where most of my dev hours have gone.
 
+However, I have spent many hours customising my Linux distros and as a result I am able to learn new languages fairly easily.
+Became the git fixer for every group project, grew fairly confident in my abilities with it as a result
 <details>
 <summary>Proficient</summary>
 
 <table>
   <tr>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /></a>
+      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /></a>
       <br>C#
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
       <br>JavaScript
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
+      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
       <br>Python
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /></a>
+      <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /></a>
       <br>Java
     </td>
   </tr>
@@ -130,19 +154,19 @@ Seeking a 12-month in-service placement in a structured development team, availa
 <table>
   <tr>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /></a>
       <br>HTML
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /></a>
       <br>CSS
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
+      <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
       <br>Node.js
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" /></a>
+      <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" /></a>
       <br>Express
     </td>
   </tr>
@@ -156,15 +180,15 @@ Seeking a 12-month in-service placement in a structured development team, availa
 <table>
   <tr>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /></a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /></a>
       <br>MySQL
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></a>
       <br>PostgreSQL
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /></a>
       <br>MongoDB
     </td>
   </tr>
@@ -178,23 +202,23 @@ Seeking a 12-month in-service placement in a structured development team, availa
 <table>
   <tr>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
       <br>Git
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" /></a>
+      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" /></a>
       <br>.NET
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
+      <a href="https://neovim.io/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
       <br>Neovim
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
+      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
       <br>Linux
     </td>
     <td align="center" width="96" style="border:none;">
-      <a href="#fourie-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" /></a>
+      <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" /></a>
       <br>Unreal
     </td>    
   </tr>
