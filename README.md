@@ -2,9 +2,11 @@
   <img src="assets/header-banner.svg" style="width:100%;" />
 </div>
 
+<!--
 <div align="center">
   <img src="assets/terminal-session.svg" width="600" height="90" alt="Terminal typing animation" />
 </div>
+-->
 
 <img src="assets/about-me-title.svg" alt="Typing SVG" />
 
